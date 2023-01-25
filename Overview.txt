@@ -1,0 +1,1 @@
+Simple appliaction that used knowledge og python, mysql, django and tkinter
